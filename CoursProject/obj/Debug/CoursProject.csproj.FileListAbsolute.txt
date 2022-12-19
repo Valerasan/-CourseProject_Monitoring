@@ -1,0 +1,15 @@
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\CoursProject.exe.config
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\CoursProject.exe
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\CoursProject.pdb
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\MetroFramework.dll
+C:\Users\Valera\source\repos\CoursProject\CoursProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.csproj.AssemblyReference.cache
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.Form1.resources
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.Properties.Resources.resources
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.csproj.GenerateResource.cache
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.csproj.CoreCompileInputs.cache
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.csproj.CopyComplete
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.exe
+C:\Users\Valera\source\repos\CoursProject\CoursProject\obj\Debug\CoursProject.pdb
